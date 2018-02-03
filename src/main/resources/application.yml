@@ -1,0 +1,22 @@
+camunda.bpm:
+  admin-user:
+    id: zoftdev
+    password: 1234
+    firstName: Kermit
+  filter:
+    create: All tasks
+logging:
+  level:
+    #org.camunda.bpm: trace
+    #org.apache.ibatis: trace
+    #javax.activation: trace
+#spring:
+#  datasource:
+#    username: root
+#    password: 1234
+#    url: jdbc:mysql://localhost:3306/camunda?useSSL=false
+#camunda:
+#  bpm:
+#    history-level: full
+    #root: debug
+#logging.level.com.hlex.learn.camunda.bean: warn
